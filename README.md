@@ -12,7 +12,7 @@
 
 Para a preparação do ambiente de desenvolvimento criamos juntos (em aula), um pequeno tutorial que contém o "passo a passo" do processo.
 
-Disponível [NESTE LINL](https://docs.google.com/document/d/1_qTzcL4jXfBozhs7KWUMv9pL0cxy9aJ1HokReHpGG_E/edit?usp=sharing)
+Disponível [NESTE LINK](https://docs.google.com/document/d/1_qTzcL4jXfBozhs7KWUMv9pL0cxy9aJ1HokReHpGG_E/edit?usp=sharing)
 
 Lembre-se que é preciso acessar utilizando o e-mail institucional.
 
