@@ -52,6 +52,7 @@ DATA DA AVALIAÇÃO: 31.05
   - [Boson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
   - [Hashtag Treinamentos](https://www.youtube.com/@HashtagTreinamentos)
   - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
+  - [Michelli Brito](https://www.youtube.com/@MichelliBrito)
 - [LibGen](https://libgen.rs/) - Diversos Livros
 
 ## Bibliografia
