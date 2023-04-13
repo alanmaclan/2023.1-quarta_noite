@@ -1,0 +1,19 @@
+body {
+   background-color: rgb(16, 15, 16);
+}
+
+.area-principal {
+    background-color: #424242;
+    width: 400px;
+    /*margem superior, laterais , inferior: */
+    margin: 120px auto 0px;
+    border-radius: 10px;
+    border: 2px dashed white;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+.area-principal h1 {
+   text-align: center;
+   color: white;
+}
