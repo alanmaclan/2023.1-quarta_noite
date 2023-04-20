@@ -1,3 +1,5 @@
+/*versão 1.2*/
+
 body {
    background-color: rgb(16, 15, 16);
 }
@@ -16,4 +18,39 @@ body {
 .area-principal h1 {
    text-align: center;
    color: white;
+}
+
+.area-principal h1 {
+   text-align: center;
+   color: white;
+}
+
+.form-control {
+    font-size: 22px;
+    color: white;
+    margin: 20px 20px 0px;
+}
+
+.form-control input[type=number] {
+    font-size: 22px;
+    width: 80px;
+    background-color: #353535;
+    color: #ffe563;
+    text-align: center;
+}
+
+.form-btn {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn-calcular {
+    width: 80%;
+    height: 40px;
+    font-size: 24px;
+}
+
+.btn-calcular:hover {
+    background-color: #353535;
+    color: white;
 }
