@@ -4,37 +4,37 @@
         <title>Calculadora IMC</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/style.css?v=1.2">
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
-        
+
         <!--área da calculadora-->
         <div class="area-principal"> 
-            
+
             <h1>Calculadora IMC</h1>
             <hr>
-            
+
             <form method="post" action="resultado.jsp">
-                
+
                 <div class="form-control">
                     <label>Peso:</label>
                     <input type="number" name="peso" required>
                     <label>Kg</label>
                 </div>
-                
+
                 <div class="form-control">
                     <label>Altura:</label>
                     <input type="number" name="altura" step="0.01" required>
                     <label>m</label>
                 </div>
-                
+
                 <div class="form-btn">
                     <input class="btn-calcular" type="submit" value="Calcular IMC">
                 </div>
-                
+
             </form>
 
         </div>
-        
+
     </body>
 </html>
