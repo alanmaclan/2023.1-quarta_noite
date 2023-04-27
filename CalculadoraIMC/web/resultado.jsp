@@ -7,6 +7,7 @@
 
     Imc imc = new Imc();
     float resultadoIMC = imc.calculaIMC(peso, altura);
+    String classificacao = imc.classificaIMC(resultadoIMC);
 %>
 <html>
     <head>
@@ -26,8 +27,10 @@
                 <p><b>Peso informado: </b> <%= String.format("%.2f", peso)%></p>
                 <p><b>Altura informada: </b> <%= String.format("%.2f", altura)%></p>
                 <p><b>IMC: </b><%= String.format("%.2f", resultadoIMC)%></p>
+                <p><b>Classificação: </b><%= classificacao %></p>
             </div>
-
+            <br>
+            <a href="./">Calcular novamente</a>
         </div>
 
     </body>
